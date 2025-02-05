@@ -1,0 +1,8 @@
+DAY 7:
+
+
+-On this day we learn't about destructure user objects in react,
+
+-and learn't about search function which we use to search various inputs etc..,
+
+-And after that we learn't about Callback Function and solved some problems reagarding these topics.
