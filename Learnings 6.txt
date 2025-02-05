@@ -1,0 +1,14 @@
+DAY 6:
+
+
+-Today we were taught about another major topic i.e.., Properties:
+
+-These are used to pass the Property Value from the Parent to the Child component.
+
+-And learn't about how to validate the properties using propTypes,
+
+-and learn't about Property Passing.
+
+-And then we were taught about various Events of React.
+
+-And at last we implemented all these concepts.
