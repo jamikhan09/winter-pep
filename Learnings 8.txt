@@ -1,0 +1,12 @@
+DAY 8:
+
+
+-This day we started to go into the subject even more and learn't one of the topic which is of
+
+-major importance i.e..,
+
+-Usestate Function - It is a React Hook that allows you to add state management to functional components.
+
+-And after that we solved two shopping cart problems which were given to us.
+
+-Later we did a problem on Travel Suggestions.
