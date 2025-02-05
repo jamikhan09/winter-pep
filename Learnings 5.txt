@@ -1,0 +1,10 @@
+DAY 5:
+
+
+-Now we have come to the main part of our learning i.e..,
+
+-We learn't what are Components and how to create various components and implement them.
+
+-And learn't about what is Header Function and how to implement it.
+
+-Then did an Assignment of creating an App combining all these components together.
